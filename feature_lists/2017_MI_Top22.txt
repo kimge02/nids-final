@@ -1,0 +1,22 @@
+ 1. Average Packet Size	0.345607
+ 2. Packet Length Variance	0.341791
+ 3. Packet Length Std	0.341443
+ 4. Packet Length Mean	0.317711
+ 5. Total Length of Bwd Packets	0.296589
+ 6. Subflow Bwd Bytes	0.296296
+ 7. Destination Port	0.291134
+ 8. Avg Bwd Segment Size	0.286682
+ 9. Bwd Packet Length Mean	0.286222
+10. Total Length of Fwd Packets	0.284879
+11. Subflow Fwd Bytes	0.284665
+12. Init_Win_bytes_forward	0.283595
+13. Max Packet Length	0.263029
+14. Bwd Packet Length Max	0.262365
+15. Fwd Header Length	0.260444
+16. Fwd Header Length.1	0.260206
+17. Init_Win_bytes_backward	0.250163
+18. Fwd Packet Length Max	0.246408
+19. Flow IAT Max	0.212746
+20. Fwd Packet Length Mean	0.212347
+21. Avg Fwd Segment Size	0.212176
+22. Flow Duration	0.200626

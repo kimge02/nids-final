@@ -1,0 +1,22 @@
+Fwd URG Flags
+Flow Duration
+TotLen Fwd Pkts
+Bwd Byts/b Avg
+Bwd Seg Size Avg
+RST Flag Cnt
+Flow Byts/s
+Down/Up Ratio
+Fwd Act Data Pkts
+Flow Pkts/s
+Fwd IAT Std
+TotLen Bwd Pkts
+Bwd Pkt Len Max
+Pkt Len Var
+Subflow Fwd Byts
+Fwd IAT Mean
+Dst Port
+Idle Max
+Bwd IAT Std
+Bwd Header Len
+Fwd Pkt Len Std
+ECE Flag Cnt

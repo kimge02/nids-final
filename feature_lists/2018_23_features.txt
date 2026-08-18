@@ -1,0 +1,13 @@
+Flow Pkts/s
+Idle Min
+Fwd Pkt Len Max
+ACK Flag Cnt
+Flow Byts/s
+Bwd Seg Size Avg
+Init Fwd Win Byts
+Fwd Act Data Pkts
+Fwd Pkt Len Std
+Dst Port
+Bwd Pkts/s
+Fwd Seg Size Min
+Bwd Pkt Len Std

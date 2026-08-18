@@ -1,0 +1,22 @@
+Average Packet Size
+Bwd Packet Length Std
+Avg Bwd Segment Size
+Bwd Packet Length Mean
+Max Packet Length
+Total Backward Packets
+Bwd Packet Length Min
+Destination Port
+Total Length of Fwd Packets
+Subflow Bwd Packets
+Packet Length Std
+Fwd Packet Length Max
+URG Flag Count
+Init_Win_bytes_backward
+Fwd Packet Length Std
+Flow IAT Mean
+min_seg_size_forward
+Subflow Fwd Packets
+Flow Bytes/s
+PSH Flag Count
+Fwd IAT Min
+Fwd IAT Total

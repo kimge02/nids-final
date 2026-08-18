@@ -1,0 +1,22 @@
+Flow Duration
+Total Fwd Packets
+Total Length of Fwd Packets
+Fwd Packet Length Min
+Bwd Packet Length Max
+Bwd Packet Length Min
+Flow IAT Std
+Fwd IAT Total
+Fwd IAT Mean
+Fwd IAT Max
+Bwd IAT Std
+Fwd URG Flags
+Max Packet Length
+PSH Flag Count
+ACK Flag Count
+ECE Flag Count
+Fwd Header Length.1
+Fwd Avg Bytes/Bulk
+Fwd Avg Packets/Bulk
+Subflow Bwd Bytes
+Init_Win_bytes_backward
+Active Std

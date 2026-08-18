@@ -1,0 +1,22 @@
+Destination Port
+Total Backward Packets
+Fwd Packet Length Mean
+Bwd Packet Length Mean
+Flow Packets/s
+Flow IAT Std
+Bwd IAT Mean
+Bwd IAT Max
+Fwd URG Flags
+Min Packet Length
+SYN Flag Count
+URG Flag Count
+CWE Flag Count
+Fwd Header Length.1
+Fwd Avg Packets/Bulk
+Bwd Avg Packets/Bulk
+Subflow Fwd Packets
+Subflow Fwd Bytes
+Subflow Bwd Packets
+min_seg_size_forward
+Active Max
+Idle Min

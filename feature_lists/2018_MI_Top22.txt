@@ -1,0 +1,22 @@
+ 1. Init Fwd Win Byts	0.348791
+ 2. Dst Port	0.216454
+ 3. Bwd Pkt Len Max	0.214914
+ 4. Pkt Len Max	0.211469
+ 5. Fwd Pkt Len Max	0.205866
+ 6. Fwd Seg Size Avg	0.198489
+ 7. Fwd Pkt Len Mean	0.198462
+ 8. Bwd Pkt Len Mean	0.189215
+ 9. Bwd Seg Size Avg	0.189189
+10. Subflow Fwd Byts	0.175865
+11. TotLen Fwd Pkts	0.175678
+12. Pkt Len Std	0.170871
+13. Subflow Bwd Byts	0.170435
+14. TotLen Bwd Pkts	0.170288
+15. Pkt Len Mean	0.167932
+16. Pkt Size Avg	0.167549
+17. Init Bwd Win Byts	0.166750
+18. Pkt Len Var	0.162618
+19. Fwd Pkts/s	0.160772
+20. Fwd Header Len	0.159151
+21. Bwd Pkt Len Std	0.150940
+22. Fwd Pkt Len Std	0.145164

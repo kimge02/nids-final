@@ -1,0 +1,54 @@
+Bwd IAT Std
+Fwd Seg Size Min
+Fwd Seg Size Avg
+PSH Flag Cnt
+Flow IAT Std
+Bwd Pkt Len Min
+Init Bwd Win Byts
+SYN Flag Cnt
+Bwd Header Len
+Bwd Pkt Len Std
+Flow Byts/s
+Idle Std
+Dst Port
+Bwd IAT Tot
+Bwd Pkts/b Avg
+Flow IAT Mean
+Fwd Pkts/s
+Bwd IAT Mean
+Pkt Len Min
+Fwd Pkt Len Max
+Down/Up Ratio
+Pkt Size Avg
+Flow IAT Min
+Fwd Act Data Pkts
+Flow IAT Max
+Idle Min
+Flow Duration
+Active Std
+Pkt Len Max
+Subflow Fwd Pkts
+Bwd Pkt Len Max
+Active Min
+Bwd Byts/b Avg
+FIN Flag Cnt
+TotLen Bwd Pkts
+TotLen Fwd Pkts
+Bwd Pkts/s
+ECE Flag Cnt
+Flow Pkts/s
+Fwd Pkt Len Std
+Init Fwd Win Byts
+Fwd Header Len
+RST Flag Cnt
+URG Flag Cnt
+Pkt Len Mean
+Pkt Len Std
+Fwd IAT Tot
+Bwd IAT Min
+ACK Flag Cnt
+Fwd IAT Std
+Idle Mean
+Fwd URG Flags
+Bwd Seg Size Avg
+Subflow Bwd Pkts

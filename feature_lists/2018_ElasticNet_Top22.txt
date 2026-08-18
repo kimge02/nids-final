@@ -1,0 +1,22 @@
+ 1. Fwd Seg Size Min	1.281555
+ 2. Dst Port	0.511030
+ 3. Init Fwd Win Byts	0.375822
+ 4. Bwd Pkts/s	0.287414
+ 5. PSH Flag Cnt	0.263693
+ 6. Bwd IAT Tot	0.242005
+ 7. Init Bwd Win Byts	0.237519
+ 8. Protocol	0.127682
+ 9. RST Flag Cnt	0.121052
+10. SYN Flag Cnt	0.109866
+11. Flow Pkts/s	0.100376
+12. Fwd PSH Flags	0.073135
+13. URG Flag Cnt	0.056150
+14. ECE Flag Cnt	0.036636
+15. Flow IAT Min	0.000000
+16. Bwd Header Len	0.000000
+17. Pkt Size Avg	0.000000
+18. Fwd Pkt Len Std	0.000000
+19. Fwd Pkts/b Avg	0.000000
+20. Tot Bwd Pkts	0.000000
+21. Tot Fwd Pkts	0.000000
+22. Active Max	0.000000

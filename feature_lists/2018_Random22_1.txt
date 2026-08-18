@@ -1,0 +1,22 @@
+Flow IAT Mean
+Fwd Seg Size Avg
+Fwd Header Len
+Bwd Pkts/b Avg
+Fwd Pkt Len Min
+Flow Byts/s
+Bwd PSH Flags
+Fwd Blk Rate Avg
+TotLen Bwd Pkts
+Pkt Len Max
+Fwd IAT Tot
+Fwd Byts/b Avg
+Bwd IAT Max
+Dst Port
+Bwd IAT Std
+Bwd Blk Rate Avg
+Bwd IAT Min
+Fwd IAT Max
+Flow IAT Min
+Tot Bwd Pkts
+Init Bwd Win Byts
+Active Mean

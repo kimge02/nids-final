@@ -1,0 +1,22 @@
+Flow Duration
+Total Fwd Packets
+Fwd Packet Length Max
+Fwd Packet Length Min
+Fwd Packet Length Mean
+Bwd Packet Length Min
+Bwd Packet Length Std
+Flow IAT Mean
+Flow IAT Min
+Bwd IAT Max
+Fwd PSH Flags
+Bwd Header Length
+Bwd Packets/s
+Min Packet Length
+PSH Flag Count
+CWE Flag Count
+ECE Flag Count
+Down/Up Ratio
+Average Packet Size
+Bwd Avg Bulk Rate
+Active Std
+Idle Std

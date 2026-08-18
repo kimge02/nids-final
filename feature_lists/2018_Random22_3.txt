@@ -1,0 +1,22 @@
+Fwd URG Flags
+Fwd Header Len
+URG Flag Cnt
+CWE Flag Count
+Idle Std
+Active Min
+Bwd IAT Tot
+Fwd Seg Size Min
+Bwd IAT Mean
+Bwd Pkt Len Mean
+Subflow Fwd Byts
+Fwd IAT Mean
+Dst Port
+Bwd Blk Rate Avg
+SYN Flag Cnt
+Bwd IAT Min
+Flow IAT Min
+Bwd Header Len
+Tot Bwd Pkts
+Init Bwd Win Byts
+Fwd Pkt Len Max
+Fwd PSH Flags

@@ -1,0 +1,22 @@
+ 1. Packet Length Variance	0.974261
+ 2. Fwd Packet Length Std	0.702633
+ 3. Idle Max	0.426771
+ 4. PSH Flag Count	0.398069
+ 5. Bwd IAT Total	0.363820
+ 6. Fwd Packet Length Max	0.354560
+ 7. ACK Flag Count	0.352201
+ 8. FIN Flag Count	0.308510
+ 9. Fwd IAT Std	0.303200
+10. Destination Port	0.227959
+11. Init_Win_bytes_forward	0.223085
+12. Init_Win_bytes_backward	0.218743
+13. Bwd IAT Std	0.168837
+14. URG Flag Count	0.165232
+15. Packet Length Std	0.117339
+16. Fwd Packets/s	0.100574
+17. Flow Duration	0.095253
+18. Fwd PSH Flags	0.088462
+19. SYN Flag Count	0.084953
+20. Idle Mean	0.079673
+21. Avg Fwd Segment Size	0.073285
+22. Fwd Packet Length Mean	0.072976
