@@ -4,7 +4,7 @@ Stacked Sparse Autoencoder(SSAE) + Attention을 이용한 네트워크 침입 �
 CIC-IDS2017, CSE-CIC-IDS2018 두 데이터셋으로 실험했으며, 한국콘텐츠학회논문지 투고를
 목표로 현재 작성 중이다. 4학년 1학기부터 진행.
 
-> 이 연구는 [SSAE 기반 특징 중요도 분석(SHAP)](../nids-shap-conference) 컨퍼런스
+> 이 연구는 [SSAE 기반 특징 중요도 분석(SHAP)](https://github.com/kimge02/nids-shap-conference) 컨퍼런스
 > 연구의 확장판이다. 1차 연구에서 "feature selection이 유의미하다"는 걸 확인한 뒤,
 > feature selection 방법을 2단계로 정교화하고 모델에 Attention을 추가해 두 데이터셋으로
 > 확장했다.
